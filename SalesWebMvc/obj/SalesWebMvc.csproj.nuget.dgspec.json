@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jorge\\OneDrive\\Ambiente de Trabalho\\new\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
+    "D:\\projetos\\C#\\workspace\\Secao18-Sistema Web com ASP .NET Core MVC\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jorge\\OneDrive\\Ambiente de Trabalho\\new\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {
+    "D:\\projetos\\C#\\workspace\\Secao18-Sistema Web com ASP .NET Core MVC\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jorge\\OneDrive\\Ambiente de Trabalho\\new\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectUniqueName": "D:\\projetos\\C#\\workspace\\Secao18-Sistema Web com ASP .NET Core MVC\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
         "projectName": "SalesWebMvc",
-        "projectPath": "C:\\Users\\jorge\\OneDrive\\Ambiente de Trabalho\\new\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectPath": "D:\\projetos\\C#\\workspace\\Secao18-Sistema Web com ASP .NET Core MVC\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
         "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jorge\\OneDrive\\Ambiente de Trabalho\\new\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc\\obj\\",
+        "outputPath": "D:\\projetos\\C#\\workspace\\Secao18-Sistema Web com ASP .NET Core MVC\\SalesWebMvc\\SalesWebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
