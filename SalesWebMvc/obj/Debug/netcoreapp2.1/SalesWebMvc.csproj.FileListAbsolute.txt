@@ -38,3 +38,4 @@ D:\projetos\C#\workspace\Secao18-Sistema Web com ASP .NET Core MVC\SalesWebMvc\S
 D:\projetos\C#\workspace\Secao18-Sistema Web com ASP .NET Core MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
 D:\projetos\C#\workspace\Secao18-Sistema Web com ASP .NET Core MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 D:\projetos\C#\workspace\Secao18-Sistema Web com ASP .NET Core MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+D:\projetos\C#\workspace\Secao18-Sistema Web com ASP .NET Core MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
